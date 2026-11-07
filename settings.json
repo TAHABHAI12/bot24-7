@@ -8,7 +8,7 @@
   "server": {
     "ip": "pythonmcr.play.hosting",
     "port": 63068,
-    "version": "26.3",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {

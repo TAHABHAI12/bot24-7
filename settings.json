@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "SoloCloudHosting",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "pythonmcr.play.hosting",
     "port": 63068,
-    "version": "26.1.2",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
